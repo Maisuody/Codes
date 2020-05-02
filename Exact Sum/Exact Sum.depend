@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1587638155 source:e:\it\exact sum\main.cpp
+	<iostream>
+	<cstdlib>
+
