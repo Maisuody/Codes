@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1591629377 source:c:\users\hp_pc\desktop\courses\problem solving\problem solution\funcy number\main.cpp
+	<iostream>
+	<algorithm>
+	<cstdlib>
+
