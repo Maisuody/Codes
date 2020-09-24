@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1591234565 source:c:\users\hp_pc\desktop\courses\problem solving\problem solution\beru-taxi\main.cpp
+	<iostream>
+	<math.h>
+	<iomanip>
+

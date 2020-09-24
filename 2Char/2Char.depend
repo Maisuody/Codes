@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1592041304 source:c:\users\hp_pc\desktop\courses\problem solving\problem solution\2char\main.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<algorithm>
+
