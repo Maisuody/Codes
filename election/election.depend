@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1595081139 source:c:\users\hp_pc\desktop\courses\problem solving\problem solution\election\main.cpp
+	<iostream>
+	<algorithm>
+	<map>
+

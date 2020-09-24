@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1595409985 source:c:\users\hp_pc\desktop\courses\problem solving\problem solution\cardswithnumbers\main.cpp
+	<iostream>
+	<map>
+	<fstream>
+
